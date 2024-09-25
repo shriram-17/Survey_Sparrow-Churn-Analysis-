@@ -52,7 +52,7 @@ The dataset should be in CSV format and should contain a target column for churn
 
 ## Modeling
 
-The main model used in this project is `KNeighborsClassifier`, but you can easily replace it with other classifiers by modifying the training section of the code.
+The main model used in this project is `KNeighborsClassifier` and deployed using joblib, but you can easily replace it with other classifiers by modifying the training section of the code.
 
 ## Interpretability
 
